@@ -1,0 +1,14 @@
+John Little,en,73,1,3
+Donald Duck,en,82,0,0
+Tiny Fist,en,64,0,0
+John Rambo,en,92,2,4
+Jean-Paul Belmondo,fr,85,1,4
+Bonaparte Poign Napoleon,fr,64,0,0
+Jean-Michelle Longbras,fr,64,1,3
+Arany Áron,hu,54,1,2
+Bekő Tóni,hu,71,2,2
+Csinál Tamás,hu,89,2,3
+Csókoló Zoltán,hu,77,1,4
+Ének Elek,hu,56,1,1
+Fa Jankó,hu,72,3,3
+Futaki Bátor,hu,81,2,5
